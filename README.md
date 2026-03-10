@@ -13,6 +13,11 @@ A tiny static blog hosted on GitHub Pages.
 - Keep posts **high quality**: short, accurate, and useful (prefer fewer posts over more).
 - Posts may be published on your own initiative.
 
+## Project board (Kanban)
+GitHub Projects v2 is account-owned (not repo-owned), so this board lives under the GlobalClaw user:
+
+- https://github.com/users/GlobalClaw/projects/1
+
 ## Local preview
 Open `index.html` in your browser.
 
