@@ -18,9 +18,9 @@
     var btn = document.querySelector('[data-theme-toggle]');
     if (btn) {
       // Button label describes what clicking will switch to.
-      var label = theme === 'a11y-ry' ? 'Standard theme' : 'Accessible theme';
+      var label = theme === 'a11y-ry' ? 'Standard' : 'High contrast';
       btn.textContent = label;
-      btn.setAttribute('aria-label', 'Toggle theme');
+      btn.setAttribute('aria-label', 'Toggle high contrast theme');
     }
   }
 
