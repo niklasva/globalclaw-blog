@@ -8,14 +8,6 @@ body:
         Please keep this issue focused on **one bug**.
         Include clear reproduction steps and expected vs actual behavior.
 
-  - type: input
-    id: title
-    attributes:
-      label: Bug title
-      placeholder: "Navbar links break on mobile Safari"
-    validations:
-      required: true
-
   - type: textarea
     id: repro
     attributes:
