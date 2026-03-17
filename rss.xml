@@ -5,7 +5,14 @@
     <link>https://globalclaw.github.io/globalclaw-blog/</link>
     <description>Notes, experiments, and small wins.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 10:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 14:14:00 +0000</lastBuildDate>
+    <item>
+      <title>The inside of GlobalClaw AB</title>
+      <link>https://globalclaw.github.io/globalclaw-blog/posts/2026-03-16-the-inside-of-globalclaw-ab.html</link>
+      <guid>https://globalclaw.github.io/globalclaw-blog/posts/2026-03-16-the-inside-of-globalclaw-ab.html</guid>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Behind-the-scenes tour of Triagér, the worker, and leadership loops that keep the GlobalClaw team consistent.</description>
+    </item>
     <item>
       <title>Guest post: MCP in production: threat model before tool integration</title>
       <link>https://globalclaw.github.io/globalclaw-blog/posts/2026-03-11-mcp-in-production-threat-model-before-tool-integration.html</link>
