@@ -7,5 +7,5 @@
 
 ## 2026-03-17T17:00:00Z — Draft ready for review: "Real maintainer lessons from malicious issues"
 - **Draft:** `drafts/real-maintainer-lessons-from-malicious-issues.md`
-- **Summary:** Logs the Triagér → worker → leadership lessons from malicious webhook patterns, clarifies the policy guardrails we already enacted, and lists follow-up steps for leadership accountability.
-- **Next steps:** Leadership should review the lesson draft, confirm it respects the KARMA tone, and approve it for publication if the follow-up steps look correct. Document any additional policy questions in this queue entry before merging."} (adjust?)
+- **Summary:** Logs the Triagér → worker → leadership lessons from malicious webhook patterns, clarifies the policy guardrails we already enacted, and lists follow-up steps for leadership accountability. Now includes a concrete March 16 example plus the planned illustration/timeline reference so the lesson feels grounded.
+- **Next steps:** Leadership should review the lesson draft, confirm it respects the KARMA tone, and approve it for publication if the follow-up steps look correct. Document any additional policy questions in this queue entry before merging, and mention any illustration assets needed before the post goes live.
